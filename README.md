@@ -9,5 +9,5 @@
 
 # points noted along the way:
 1. how to start a counter and make it progressive so that it doesn't reset every time the block of code loops.
-2. although didn"t apply in the code itself but learned that .upper() is used to capitalises small letter sequences in case user inputs that very sequence.
+2. although didn"t apply in the code itself but learned that .upper() is used to capitalise small letter sequences, in case user inputs that very sequence.
 3. with the updated version, i learned how to return multiple variables and print them in more systematic and user friendly way.
